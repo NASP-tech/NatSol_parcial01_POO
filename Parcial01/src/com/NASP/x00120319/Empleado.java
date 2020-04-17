@@ -10,7 +10,7 @@ public abstract class Empleado {
         this.puesto = puesto;
         this.salario = salario;
     }
-    
+
     public String getNombre(){
         return nombre;
     }
