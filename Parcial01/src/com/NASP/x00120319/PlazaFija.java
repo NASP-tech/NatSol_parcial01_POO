@@ -11,7 +11,7 @@ public class PlazaFija extends Empleado{
     public int getExtension(){
         return extension;
     }
-
+    
     public void setExtension(int telefono){
         this.extension = telefono;
     }
