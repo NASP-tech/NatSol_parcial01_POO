@@ -14,6 +14,5 @@ public class ServicioProfesional extends Empleado{
 
     public void setMesesContrato(int meses){
         this.mesesContrato = meses;
-        
     }
 }
