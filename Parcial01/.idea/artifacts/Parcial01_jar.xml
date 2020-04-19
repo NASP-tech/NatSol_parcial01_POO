@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Parcial01:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Parcial01_jar</output-path>
+    <root id="archive" name="Parcial01.jar">
+      <element id="module-output" name="Parcial01" />
+    </root>
+  </artifact>
+</component>
